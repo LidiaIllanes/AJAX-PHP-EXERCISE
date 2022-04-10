@@ -23,5 +23,5 @@ function sum() {
                 $("#result").html(response);
             }
         });
-    }
+    }   
 }
